@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chinmayee212/reacthooked/static/css/main.da621410.chunk.css",
+    "main.js": "/chinmayee212/reacthooked/static/js/main.192900ae.chunk.js",
+    "main.js.map": "/chinmayee212/reacthooked/static/js/main.192900ae.chunk.js.map",
+    "runtime-main.js": "/chinmayee212/reacthooked/static/js/runtime-main.2cfcff90.js",
+    "runtime-main.js.map": "/chinmayee212/reacthooked/static/js/runtime-main.2cfcff90.js.map",
+    "static/js/2.9c3a92ff.chunk.js": "/chinmayee212/reacthooked/static/js/2.9c3a92ff.chunk.js",
+    "static/js/2.9c3a92ff.chunk.js.map": "/chinmayee212/reacthooked/static/js/2.9c3a92ff.chunk.js.map",
+    "index.html": "/chinmayee212/reacthooked/index.html",
+    "precache-manifest.e3867edd495e01ec1d97abbcee7d252c.js": "/chinmayee212/reacthooked/precache-manifest.e3867edd495e01ec1d97abbcee7d252c.js",
+    "service-worker.js": "/chinmayee212/reacthooked/service-worker.js",
+    "static/css/main.da621410.chunk.css.map": "/chinmayee212/reacthooked/static/css/main.da621410.chunk.css.map",
+    "static/js/2.9c3a92ff.chunk.js.LICENSE.txt": "/chinmayee212/reacthooked/static/js/2.9c3a92ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cfcff90.js",
+    "static/js/2.9c3a92ff.chunk.js",
+    "static/css/main.da621410.chunk.css",
+    "static/js/main.192900ae.chunk.js"
+  ]
+}
